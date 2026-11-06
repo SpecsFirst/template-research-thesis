@@ -28,7 +28,7 @@ date: <YYYY-MM-DD>
 ## Controls and replicates
 
 - **Controls:** `<positive, negative, blanks>`
-- **Replicates:** `<number, biological or technical>`
+- **Replicates:** `<number, and what varies between them>`
 
 ## Raw data produced
 
